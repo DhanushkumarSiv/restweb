@@ -1,0 +1,216 @@
+*{
+    padding:0;
+    margin:0;
+}
+nav{
+    margin-top:15px
+    
+}
+.ul,a,li{
+    display: inline;
+    margin:15px;
+    font-family: Josefin Sans;
+    font-size: 20px;
+    color: rgba(236, 93, 17, 0.962);
+  
+    cursor:pointer;
+    
+}
+.ul,a:hover{
+    font-size: 22px;
+    color:red;
+    text-decoration-line: underline;
+} 
+ .homepage{
+    margin:80px;
+ }
+ .welcome{
+    font-family: Shadows Into Light;
+    text-align: center;
+    font-size: 50px;
+ }
+ .b1{
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    display: inline-block;
+    margin:55px;
+    border-radius: 5px;
+    
+ }
+ .b2{
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    display: inline-block;
+    margin:55px;
+    
+ }
+ .b3{
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    display: inline-block;
+    margin:55px;
+    }
+ .hyper{
+    font-family: Anton;
+    padding:20px; 
+    font-size: 25px;
+    color:red;
+ }
+ .hyper:hover{
+    color:yellow;
+    cursor:pointer;
+ }
+.creator{
+    font-family: italic;
+    font-size: 20px;
+    text-align: right;
+    color:red;
+    padding: 40px;
+    text-decoration: underline;
+    
+} 
+.bottom{
+    height: 100px;
+    width: 1515px;
+    background-color: rgb(125, 24, 24);
+    color: orange;
+    padding:25px;
+}
+.quote{
+   font-style: italic;
+   font-size: 50px;
+   text-align: center;
+   padding-top: 50px;
+}
+.menup{
+   font-family: Sofia;
+   text-align: center;
+   font-size: 20px;
+   padding-top: 25px;
+}
+.itemshead{
+   font-family: Bebas Neue;
+   font-size: 25px;
+   text-align: center;
+   padding: 50pxpx;
+   color: rgb(220, 109, 12);
+}
+ul,li{
+   font-family: Raleway;
+   color:black;
+   padding-top: 30px;
+   font-weight:normal;
+   padding:20px;
+}
+.party{
+   font-family: Bebas Neue;
+   font-size: 25px;
+   text-align: center;
+   padding: 50pxpx;
+   color: rgb(220, 109, 12);
+}
+p{
+   font-family: Raleway;
+   color:black;
+   padding-top: 30px;
+   font-weight:normal;
+   padding:20px;
+}
+.dash{
+   display:flex;
+   align-items: left;
+   font-family: Anton;
+   font-size: 10px;
+   margin-left: 10px;
+   color:red;
+
+}
+.dash img{
+   margin-right: 1100px;
+   margin-bottom: 10px;
+
+   
+}
+input{
+   width: 800px;;
+   height:35px;
+   margin-bottom: 25px;
+   border-width: 3px;
+   border-radius: 8px;
+}
+.dash h1:hover{
+   cursor:pointer;
+   color:grey;
+
+}
+.apps h1{
+   font-family: Anton;
+   text-align: center;
+}
+.apps h3{
+   font-family: Poppins;
+   text-align: center;
+   padding: 30px;
+}
+.hash{
+   font-family: Bebas Neue;
+   color:rgb(220, 109, 12);
+   text-align: center;
+}
+.owner{
+   width: 350px;
+    height: 500px;
+    background-color: pink;
+    display: inline;
+    margin-left:55px;
+    border-radius: 5px;
+    padding-top: 35px;
+}
+
+.name{
+   font-family: Poppins;
+   color: black;
+}
+.o{
+   font-family: Anton;
+   color:orange;
+}
+.link{
+   width: 100px;
+   height: 100px;
+   display:inline-block; 
+   background-color: white;  
+   align-items: center;
+}
+.contact{
+   padding-top: 45px;
+   text-align: center;
+}
+.contact h3{
+   padding:10px;
+   text-align: center;
+}
+.h{
+   font-family: Bebas Neue;
+   font-size: 25px;
+   text-align: center;
+   padding-top: 35px;
+   color: rgb(220, 109, 12);
+}
+.timing{
+   font-family: Raleway;
+   color:black;
+   padding-top: 30px;
+   font-weight:normal;
+   padding:20px;
+}
+
+
+
+
+
+
+
